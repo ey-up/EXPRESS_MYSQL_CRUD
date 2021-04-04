@@ -1,7 +1,7 @@
 
 # Installation
 
-git clone 
+git clone https://github.com/ey-up/EXPRESS_MYSQL_CRUD.git
 
 npm install
 
