@@ -38,4 +38,6 @@ http://localhost:3000/product/1 (DELETE): Ürün siler
 
 Not: 
 
+Açılışta hiç veri olmadğından sipariş ekleyebilmek için önce ürün eklemek gerekiyor.
+
 Other klasöründe database şeması, database export'u ve postman export'u bulunuyor.
